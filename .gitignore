@@ -1,0 +1,7 @@
+# Npm
+.npmrc
+node_modules/
+package-lock.json
+
+# Enviroments
+.env

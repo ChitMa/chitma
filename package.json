@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChitMa/chitma.git"
+    "url": "https://github.com/ChitMa/chitma-npmjs.git"
   },
   "main": "index.js",
   "scripts": {
